@@ -1,0 +1,6 @@
+{
+  "name": "Kollaborations-Board",
+  "description": "Eine minimalistische Echtzeit-Webanwendung für Gruppenarbeit, ähnlich wie Flinga.fi. Ermöglicht das Erstellen von Boards mit verschiebbaren Post-its.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
